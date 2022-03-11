@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* CSS variables */
+
+:root {
+    /* Color */
+    --text-color: #fff;
+    --text-color-alt: #a1a1a6;
+    --accent-color: #0071e3;
+    --accent-color-alt: #2997ff;
+    --body-bg: #000;
+}
