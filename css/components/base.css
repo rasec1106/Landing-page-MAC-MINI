@@ -15,3 +15,25 @@
     --accent-color-alt: #2997ff;
     --body-bg: #000;
 }
+
+body {
+    color: var(--text-color);
+    font-family: var(--body-font);
+    background-color: var(--body-bg);
+    overflow-x: hidden;
+}
+
+button {
+    /* To remove all styles */
+    all: unset;
+    cursor: pointer;
+}
+
+a {
+    color: var(--accent-color-alt);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

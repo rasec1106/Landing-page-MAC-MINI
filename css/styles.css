@@ -1,0 +1,7 @@
+/* 
+    Making this kind of imports is bad practice.
+    Don't do this in production 
+*/
+
+@import url('components/base.css');
+@import url('components/typography.css');
